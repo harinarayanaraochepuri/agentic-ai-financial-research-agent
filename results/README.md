@@ -1,0 +1,1 @@
+Save actual reports and measured evidence here. Do not fabricate scores. Expected outputs include challenge_1.md through challenge_8.md, evaluation_report.md, stress_test_report.md, and token_usage_analysis.md.
